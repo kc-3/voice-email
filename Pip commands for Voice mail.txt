@@ -1,0 +1,8 @@
+pip install --upgrade pip
+pip install speechrecognition
+pip install gtts
+pip install pyglet
+pip install imap_tools
+pip install bs4
+pip install smtplib
+pip install pyaudio (Note: Before installing this install Visual Studio Build tools 2019 and install C++ build tools in it)
